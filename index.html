@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon/svg" href="./src/assets/images/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://js.stripe.com/v3/"></script>
+    <!-- <link rel="stylesheet" href="./src/style.css">
+    <link rel="stylesheet" href="./src/global.css"> -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400&family=Montserrat:ital,wght@0,500;0,600;0,700;0,800;0,900;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <title></title>
+  </head>
+  <body class="bg-white dark:bg-white text-black dark:text-[black]">
+    <div id="app" ></div>
+    <script type="module" src="./src/main.js"></script>
+    <script>
+      let ref = window.location.href
+      // console.log(window.location.href);
+      // console.log(window.location.origin);
+      // console.log(ref.indexOf(window.location.origin) + (window.location.origin).length);
+      let number = ref.indexOf(window.location.origin) + (window.location.origin).length;
+      let route = ref.slice(number +1);
+      // console.log();
+      
+    
+      let fullRoute = `${route.charAt(0).toUpperCase()}${route.slice(1, route.length)}`;
+      if(fullRoute === '') {
+        fullRoute = 'Welcome'
+      }
+     let title = document.getElementsByTagName('title')
+    //  alert(fullRoute)
+     title[0].innerHTML = `${fullRoute} | Webtusk`
+      // console.log(fullRoute);
+    </script>
+  </body>
+</html>

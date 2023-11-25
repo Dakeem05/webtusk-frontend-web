@@ -1,0 +1,150 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'madeForDisplayBold';
+    src: url('WixMadeforDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+/* @font-face {
+    font-family: 'noirBoldItallic';
+    src: url('NoirPro-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+} */
+@font-face {
+    font-family: 'madeForDisplayHeavy';
+    src: url('WixMadeforDisplay-ExtraBold.woff') format('woff');
+    font-weight: bolder;
+    font-style: normal;
+}
+/* @font-face {
+    font-family: 'noirHeavy';
+    src: url('NoirPro-HeavyItalic.woff') format('woff');
+    font-weight: bolder;
+    font-style: italic;
+} */
+/* @font-face {
+    font-family: 'noirItalic';
+    src: url('NoirPro-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+} */
+/* @font-face {
+    font-family: 'noirLight';
+    src: url('NoirPro-Light.woff') format('woff');
+    font-weight: lighter;
+    font-style: normal;
+} */
+/* @font-face {
+    font-family: 'noirLightItalic';
+    src: url('NoirPro-LightItalic.woff') format('woff');
+    font-weight: lighter;
+    font-style: italic;
+} */
+@font-face {
+    font-family: 'madeForDisplayMedium';
+    src: url('WixMadeforDisplay-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+/* @font-face {
+    font-family: 'noirMediumItalic';
+    src: url('NoirPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+} */
+@font-face {
+    font-family: 'madeForDisplayRegular';
+    src: url('WixMadeforDisplay-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'madeForDisplaySemiBold';
+    src: url('WixMadeforDisplay-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'madeForDisplayVariable';
+    src: url('WixMadeforDisplay-VariableFont_wght.woff') format('woff');
+}
+
+
+
+/* @font-face {
+    font-family: 'noirBold';
+    src: url('NoirPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'noirBoldItallic';
+    src: url('NoirPro-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'noirHeavy';
+    src: url('NoirPro-Heavy.woff') format('woff');
+    font-weight: bolder;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'noirHeavy';
+    src: url('NoirPro-HeavyItalic.woff') format('woff');
+    font-weight: bolder;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'noirItalic';
+    src: url('NoirPro-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'noirLight';
+    src: url('NoirPro-Light.woff') format('woff');
+    font-weight: lighter;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'noirLightItalic';
+    src: url('NoirPro-LightItalic.woff') format('woff');
+    font-weight: lighter;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'noirMedium';
+    src: url('NoirPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'noirMediumItalic';
+    src: url('NoirPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'noirRegular';
+    src: url('NoirPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'noirSemiBold';
+    src: url('NoirPro-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'noirSemiBoldItalic';
+    src: url('NoirPro-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+} */
