@@ -8,7 +8,7 @@
     import PageLoading from "../components/Icons/PageLoading.vue";
     import DotIcon from "../components/Icons/TickIcon.vue";
     import axios from "axios";
-    import Section4 from "../components/home-components/section6.vue";
+    import Section4 from "../components/home-components/Section6.vue";
     const plansArray = ref([]);
     const isAnnual = ref(true)
     const isLoading = ref(true);
