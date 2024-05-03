@@ -238,7 +238,7 @@ import axios from "axios";
             <div class=" mx-auto flex">
                 <span>
             <router-link to="/"  class="">
-                <img class="w-[4rem] xxs:w-[8rem] sm:w-[9rem] xl:w-[10rem]" src="../../assets/Images/logo-white.svg" alt="Webtusk"/>
+                <img class="w-[4rem] xxs:w-[8rem] sm:w-[9rem] xl:w-[10rem]" src="../../assets/Images/Logo-white.svg" alt="Webtusk"/>
             </router-link>
 
                 </span>
@@ -289,7 +289,7 @@ import axios from "axios";
         <div >
             <span>
                 <router-link to="/" :class="{'hidden ' :scrolled === true, 'block' : scrolled === false }" class="">
-            <img class="w-[7rem] sm:w-[9rem] xl:w-[10rem]" src="../../assets/Images/logo-white.svg" alt="Webtusk"/>
+            <img class="w-[7rem] sm:w-[9rem] xl:w-[10rem]" src="../../assets/Images/Logo-white.svg" alt="Webtusk"/>
         </router-link>
         <router-link to="/" :class="{'block' :scrolled === true, 'hidden' : scrolled === false }" class="">
             <img class="w-[7rem] sm:w-[9rem] xl:w-[10rem]" src="../../assets/Images/logo.svg" alt="Webtusk"/>

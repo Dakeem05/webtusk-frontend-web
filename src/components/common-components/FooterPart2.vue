@@ -42,7 +42,7 @@
         <div class="flex px-[2rem] flex-col  lg:flex-row gap-3  lg:gap-5">
             <span class="flex place-items-center lg:place-items-start gap-5 mr-6 flex-col lg:w-6/12">
                 <article>
-                    <img class="w-[10rem]" src="../../assets/images/logo-white.svg" alt="">
+                    <img class="w-[10rem]" src="../../assets/images/Logo-white.svg" alt="">
                 </article>
                 <article class="text-xs text-center w-10/12 lg:text-start md:text-sm lg:text-lg">We are great web design and hosting subscription service dedicated to providing comprehensive solutions for individuals and businesses seeking to establish a strong online presence.</article>
                 <aside class="flex gap-3">

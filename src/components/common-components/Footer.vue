@@ -50,7 +50,7 @@
         <aside class=" ">
             <picture class=" flex lg:block lg:justify-normal justify-center">
                 <router-link to="/" :class="{'block' :scrolled === true, 'hidden' : scrolled === false }" class="">
-                    <img class="max-w-[9rem]" src="../../assets/Images/logo-white.svg" alt="Webtusk"/>
+                    <img class="max-w-[9rem]" src="../../assets/Images/Logo-white.svg" alt="Webtusk"/>
                 </router-link>
             </picture>
             <h1 class=" sm:text-2xl mt-[3rem] font-madeForDisplayBold block lg:hidden w-full font-bold relative">
