@@ -2,6 +2,7 @@
     import NavBar from '../components/common-components/NavBar.vue';
     import Footer from '../components/common-components/FooterPart2.vue';
     import Hero from '../components/home-components/Hero2.vue';
+    import ArrowRight from '../components/Icons/ArrowRight.vue'
     import Section1 from '../components/home-components/Section9.vue';
     import Section2 from '../components/home-components/Section8.vue';
     import Section3 from '../components/home-components/Section7.vue';
