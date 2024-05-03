@@ -7,6 +7,7 @@
     import Section2 from '../components/home-components/Section2.vue';
     import Section4 from '../components/home-components/Section4.vue';
     import Section3 from '../components/home-components/Section3.vue';
+    import ArrowRight from '../components/Icons/ArrowRight.vue'
     import Section5 from '../components/home-components/Section5.vue';
     // import Section6 from '../components/home-components/Section6.vue';
     import Section7 from '../components/home-components/Section10.vue';
