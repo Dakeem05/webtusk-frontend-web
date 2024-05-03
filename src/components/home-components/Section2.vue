@@ -1,10 +1,10 @@
 <script setup>
  import Carousel from "..//carousel/Carousel.vue";
-   import web1 from '../../assets/images/blankpic.jpg';
-  import web2 from '../../assets/images/blankpic.jpg';
-  import web3 from '../../assets/images/blankpic.jpg';
-  import web4 from '../../assets/images/blankpic.jpg';
-  import web5 from '../../assets/images/blankpic.jpg';
+   import web1 from '../../assets/Images/blankpic.jpg';
+  import web2 from '../../assets/Images/blankpic.jpg';
+  import web3 from '../../assets/Images/blankpic.jpg';
+  import web4 from '../../assets/Images/blankpic.jpg';
+  import web5 from '../../assets/Images/blankpic.jpg';
    const slides = [
     web1, web2, web3, web4, web5
   ]

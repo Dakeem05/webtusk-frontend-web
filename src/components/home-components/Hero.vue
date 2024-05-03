@@ -1,11 +1,11 @@
 <script setup>
 
     import Carousel from "../carousel/Carousel2.vue";
-    import web1 from '../../assets/images/blankpic.jpg';
-    import web2 from '../../assets/images/blankpic.jpg';
-    import web3 from '../../assets/images/blankpic.jpg';
-    import web4 from '../../assets/images/blankpic.jpg';
-    import web5 from '../../assets/images/blankpic.jpg';
+    import web1 from '../../assets/Images/blankpic.jpg';
+    import web2 from '../../assets/Images/blankpic.jpg';
+    import web3 from '../../assets/Images/blankpic.jpg';
+    import web4 from '../../assets/Images/blankpic.jpg';
+    import web5 from '../../assets/Images/blankpic.jpg';
     import Tick from '../Icons/Tick.vue'
     import ArrowRight from '../Icons/ArrowRight.vue'
     const slides = [

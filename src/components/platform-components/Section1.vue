@@ -1,8 +1,8 @@
 <script setup>
   import { ref, onMounted} from 'vue';
-  import web1 from '../../assets/images/blankpic.jpg';
-  import web2 from '../../assets/images/blankpic.jpg';
-  import web3 from '../../assets/images/blankpic.jpg';
+  import web1 from '../../assets/Images/blankpic.jpg';
+  import web2 from '../../assets/Images/blankpic.jpg';
+  import web3 from '../../assets/Images/blankpic.jpg';
   import CarretRight from "../Icons/RightArrow.vue";
 
   const sectionToAnimate = ref(null)
