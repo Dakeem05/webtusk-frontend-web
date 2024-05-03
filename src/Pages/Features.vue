@@ -5,7 +5,7 @@
     import ArrowRight from '../components/Icons/ArrowRight.vue'
     import Section1 from '../components/home-components/Section9.vue';
     import Section2 from '../components/home-components/Section8.vue';
-    import Section3 from '../components/home-components/Section7.vue';
+    // import Section3 from '../components/home-components/Section7.vue';
     import Section4 from '../components/home-components/Section5.vue';
     import Section5 from '../components/home-components/Section6.vue';
     import Section6 from '../components/platform-components/Section7.vue';
